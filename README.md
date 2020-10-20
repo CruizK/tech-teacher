@@ -14,4 +14,6 @@ A web app for teaching technology during the Covid-19 panedmic, by SIUC Tech Daw
 **Note if running python & django on Linux** : Follow [this](https://www.howtoforge.com/tutorial/how-to-install-django-on-ubuntu/)
 
 Django docs: https://docs.djangoproject.com/en/3.1/
+If you don't know git: https://github.com/siucacm/WorkshopThree_February3rd2017
+
 
