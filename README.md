@@ -9,7 +9,7 @@ A web app for teaching technology during the Covid-19 panedmic, by SIUC Tech Daw
  6. If you do not have git install [here](https://git-scm.com/downloads)
  7. run `git clone https://github.com/CruizK/tech-teacher.git` and it should create a folder called "tech-teacher"
  8. run `pip install django` and navigate into `techsite/` folder 
- 9. run `python manage.py runserver` and it should then run the server so if  you go to your browser and navigate to `localhost:8080` you should see the webpage
+ 9. run `python manage.py runserver` and it should then run the server so if  you go to your browser and navigate to `localhost:8000` you should see the webpage
 
 **Note if running python & django on Linux** : Follow [this](https://www.howtoforge.com/tutorial/how-to-install-django-on-ubuntu/)
 
