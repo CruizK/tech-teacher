@@ -40,4 +40,4 @@ def index(request):
     return HttpResponse("Hello World")
 ```
 
-So we have a function(def) called index that takes in (request) and returns an HttpRespone in which we supply some text. So all this function does is return the text specified into it which is `Hello World`.
+So we have a function(def) called index that takes in (request) and returns an HttpResponse in which we supply some text. So all this function does is return the text specified into it which is `Hello World`.

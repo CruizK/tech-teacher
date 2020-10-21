@@ -18,3 +18,5 @@ Django docs: https://docs.djangoproject.com/en/3.1/
 If you don't know git: https://github.com/siucacm/WorkshopThree_February3rd2017
 
 I Recommend using visual studio code which you can download [here](https://code.visualstudio.com/download), If you already have a different editor that you use feel free to use it
+
+## Once you are setup please read through [techsite](techsite)
